@@ -1,3 +1,3 @@
-# Golang Skeleton
+# ![skeletor](assets/skeletor.png) Golang Skeleton
 
-TODO
+Dumping ground for personal golang boilerplate.
